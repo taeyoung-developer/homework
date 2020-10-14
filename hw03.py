@@ -1,1 +1,1 @@
-No python
+print('I do my homework')
